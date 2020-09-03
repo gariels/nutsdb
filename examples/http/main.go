@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/xujiajun/gorouter"
-	"github.com/xujiajun/nutsdb"
+	"github.com/gariels/nutsdb"
 )
 
 var (

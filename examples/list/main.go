@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/xujiajun/nutsdb"
+	"github.com/gariels/nutsdb"
 )
 
 var (
